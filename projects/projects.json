@@ -1,0 +1,46 @@
+[
+  
+  {
+    "name": "Home Rent",
+    "desc": "Full-Stack home rent where people can list, rent and stay",
+    "image": "homerent",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Jagat09/Home-Rent"
+    }
+  },
+
+  
+  {
+    "name": "News App",
+    "desc": "Search Latest News from all over world and read.",
+    "image": "newsapp",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Jagat09/College-project"
+    }
+  },
+
+  {
+    "name": "Melodify",
+    "desc": "Music Collection with short song of 30 seconds.",
+    "image": "melodify",
+    "category": "basicweb",
+    "links": {
+      "view": "https://melodify-nu.vercel.app/",
+      "code": "https://github.com/Jagat09/Melodify"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Jagat09/Portfolio"
+    }
+  }
+]
